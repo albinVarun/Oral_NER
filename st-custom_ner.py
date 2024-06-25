@@ -1,7 +1,7 @@
 import streamlit as st
 import spacy
 from spacy import displacy
-import Dr_Appukuttan_ner
+#import Dr_Appukuttan_ner
 CNM = spacy.load("Dr_Appukuttan_ner")
 
 
